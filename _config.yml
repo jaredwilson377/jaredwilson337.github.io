@@ -27,9 +27,9 @@ projects:
     forks: true
     projects:
     # - repo-name
-name: Jared Wilson
-email: jaredwilson377@gmail.com
-bio: Full stack developer. Hire me
+# name: Jared Wilson
+# email: jaredwilson377@gmail.com
+# bio: Full stack developer. Hire me
 social_media:
   linkedin: jared-wilson-b2b950162/
   twitter: https://twitter.com/jaredwilson377
